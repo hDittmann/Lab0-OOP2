@@ -1,0 +1,14 @@
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\bin\Debug\net8.0\Lab0.exe
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\bin\Debug\net8.0\Lab0.deps.json
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\bin\Debug\net8.0\Lab0.runtimeconfig.json
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\bin\Debug\net8.0\Lab0.dll
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\bin\Debug\net8.0\Lab0.pdb
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\Lab0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\Lab0.AssemblyInfoInputs.cache
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\Lab0.AssemblyInfo.cs
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\Lab0.csproj.CoreCompileInputs.cache
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\Lab0.dll
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\refint\Lab0.dll
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\Lab0.pdb
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\Lab0.genruntimeconfig.cache
+C:\Users\hayde\OneDrive - Southern Alberta Institute of Technology\Documents\Winter 2025 Classes\OOP 2\Visual Studio\Lab0\obj\Debug\net8.0\ref\Lab0.dll
