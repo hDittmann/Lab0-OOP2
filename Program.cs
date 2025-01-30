@@ -86,6 +86,5 @@ Additional Tasks:
     Use the double data type instead of the int data type.
     Print out the prime numbers between low and high.
     Write a method that takes in a number and returns true if it is a prime number.
-    You may need to use the modulus operator.
-    Upload your solution to GitHub.
+        You may need to use the modulus operator.
 */
